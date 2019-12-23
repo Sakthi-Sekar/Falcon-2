@@ -1,0 +1,5 @@
+From your Segment UI’s Destinations page click on “Add Destination”.
+Search for “mabl” within the Destinations Catalog and confirm the Source you’d like to connect to.
+Drop the “API Key,” accessible from into your from your mabl workspace’s API keys page, into the Segment Settings UI.
+mabl processes the usage data into rolling 24 hour summaries hourly. It may take up to an hour for usage to begin to populate in your test coverage metrics.
+        
